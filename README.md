@@ -1,4 +1,3 @@
-# Sales-Prediction-Project
 # Sales prediction using ML.
 
 Within this project, our goal is to anticipate the sales of 33 product families available in Favorita stores situated in Ecuador. Through the application of sophisticated data analysis methods and machine learning, we are striving to construct a dependable and precise sales prediction model.
